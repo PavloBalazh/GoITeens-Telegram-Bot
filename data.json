@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+        "rating": 7.1,
+        "year": 2002,
+        "genre": "fantasy",
+        "actors": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "John Cleese",
+            "Robbie Coltrane",
+            "Warwick Davis",
+            "Richard Griffiths",
+            "Richard Harris",
+            "Ian Hart",
+            "John Hurt",
+            "Alan Rickman",
+            "Fiona Shaw",
+            "Maggie Smith",
+            "Julie Walters"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+    },
+    {
+        "name": "Garfield: The Movie",
+        "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+        "rating": 3.52,
+        "year": 2002,
+        "genre": "fantasy",
+        "actors": [
+            "Breckin Meyer",
+            "Jennifer Love Hewitt",
+            "Stephen Tobolowsky",
+            "Bill Murray"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+    },
+    {
+        "name": "The adventures of Jessica",
+        "description": "This is a film about the adventurous Jessica made in 2026. She makes friends along her journey. Her life is great. What could possibly happen?",
+        "year": 2026,
+        "genre": "comedy",
+        "rating": 7.8,
+        "actors": [
+            "Jessica Balazh",
+            "Pavlo Balazh"
+        ],
+        "poster": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/chihuahua-dog-breed-info.jpeg"
+    },
+    {
+        "name": "The Fast and the Furious",
+        "description": "Brian O'Conner, an LAPD officer, goes undercover in the street racing world to investigate a group of unknown truck hijackers, believed to be led by Dominic Toretto, a professional street racer.",
+        "year": 2001,
+        "genre": "detective",
+        "rating": 8.1,
+        "actors": [
+            "Erik Bergquis",
+            "David Ayer",
+            "Gary Scott Thompson"
+        ],
+        "poster": "https://en.wikipedia.org/wiki/Fast_%26_Furious#/media/File:Fast-furious-logo-fast-furious.png"
+    },
+    {
+        "name": "Minecraft",
+        "description": "The story of a creative Steve.",
+        "year": 2024,
+        "genre": "fantasy",
+        "rating": 7.2,
+        "actors": [
+            "Alex",
+            "Steve"
+        ],
+        "poster": "https://i.pinimg.com/736x/25/d2/30/25d2304b3d7ae1685c6a92c3de758631.jpg"
+    },
+    {
+        "name": "Friendship",
+        "description": "This amazing film is all about friends and connections but there is always a problem with this.",
+        "year": 2015,
+        "genre": "thriller",
+        "rating": 5.5,
+        "actors": [
+            "Amadeus Willson",
+            "S",
+            "Mitch Miller"
+        ],
+        "poster": "Error 404. Bad request."
+    },
+    {
+        "name": "Test",
+        "description": "This is a test",
+        "year": 1899,
+        "genre": "horror",
+        "rating": 10.0,
+        "actors": [
+            "Actor 1",
+            "Actor 2",
+            "Actor 3",
+            "Actor 4"
+        ],
+        "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Checkerboard_pattern.svg/1280px-Checkerboard_pattern.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    {
+        "name": "film",
+        "description": "the description",
+        "year": 2024,
+        "genre": "musical",
+        "rating": 5.6,
+        "actors": [
+            "actor1",
+            "actor3"
+        ],
+        "poster": "none"
+    },
+    {
+        "name": "test1",
+        "description": "test2",
+        "year": 2018,
+        "genre": "action",
+        "rating": 7.2,
+        "actors": [
+            "ssa"
+        ],
+        "poster": "dddd"
+    }
+]
