@@ -47,7 +47,7 @@ Actors: {", ".join(film_actors)}
 {film_poster}
 """
     await message.answer(text)
-TOKEN = "8973711607:AAH7s3VROqRsVnlVI4Vj9cx9ytIS_-CWx_Q"
+TOKEN = "Enter your token"
 def make_reply_keyboard(n=0):
     data = read()
     dp["max_page"] = math.ceil(len(data) / 4)
